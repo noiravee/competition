@@ -1,7 +1,7 @@
-DACON 뉴스 토픽 분류 competition
+# DACON 뉴스 토픽 분류 competition
 
 
-### 7/9 LSTM
+##### 7/9 LSTM
 
 
 ### 7/11
