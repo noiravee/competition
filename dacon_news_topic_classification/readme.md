@@ -11,7 +11,7 @@
     
     * Model
         Random Forest
-    **Logistic Regression** val_score 기준 0.79~0.83
+        Logistic Regression** val_score 기준 0.79~0.83
         LGBM
         XGB
         Adaboost
