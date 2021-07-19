@@ -3,7 +3,7 @@
 ##task flow
 
 ### 7/9 
-    preprocessing : keras tokenizer
+    preprocessing :Mecab/  keras tokenizer
     LSTM
 
 ### 7/11
@@ -21,7 +21,11 @@
     하이퍼 파라미터 튜닝
 
 ### 7/13~17
+    * preprocessing : Mecab(Morphs, Nouns) , keras tokenizer
+    
+    * Model
     Conv1D CNN. Ref. Yoon Kim
+        - embedding - dropout - Conv1D - Maxpooling/ (Averagepooling) - FC - dropout - output
     Conv2D CNN
     Bidirectional LSTM
      
