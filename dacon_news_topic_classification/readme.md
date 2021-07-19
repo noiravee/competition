@@ -1,12 +1,17 @@
 # DACON 뉴스 토픽 분류 competition
 
+##task flow
 
 ### 7/9 
+    preprocessing : keras tokenizer
     LSTM
 
 ### 7/11
+    * preprocessing : tfidf tokenizer / doc2vec
+    
+    * Model
     Random Forest
-    **Logistic Regression**
+    **Logistic Regression** val_score 기준 0.79~0.83
     LGBM
     XGB
     Adaboost
